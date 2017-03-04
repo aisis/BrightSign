@@ -7,7 +7,7 @@ XD1030 Players @BM for HBF 2017
 
 
 #Local SDCard Publishing
-...Must be FAT formatted SDHC/SDXC ok!
-...Power on/off the player to recognize memory card is loaded.
+- Must be FAT formatted SDHC/SDXC ok!
+- Power on/off the player to recognize memory card is loaded.
 
 
