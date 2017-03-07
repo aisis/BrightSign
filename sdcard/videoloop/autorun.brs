@@ -1,5 +1,5 @@
 debug=false
-VideoResolution$="1920x1080x60i"
+VideoResolution$="1920x1080x25"
 
 v=CreateObject("roVideoPlayer")
 p=createobject("roMessagePort")
